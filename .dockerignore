@@ -1,8 +1,9 @@
 # Git
-.Git.gitignore
+.git
+.gitignore
 
 # Docker
-.Docker
+.docker
 
 # Python
 app/__pycache__/
